@@ -1,7 +1,7 @@
-Чтобы запустить API понадобиться OpenServer с модулями: \n
+Чтобы запустить API понадобиться OpenServer с модулями:
 > PHP 7.4
-PostgreSQL 12.2
-Apache 2.4
+> PostgreSQL 12.2
+> Apache 2.4
 Необходимо создать домен API и запустить сервер
 Для запуска "фронта" ввести команды:
 npm install и npm run serve
