@@ -1,4 +1,4 @@
-Чтобы запустить API понадобиться OpenServer с модулями:
+Чтобы запустить API понадобиться OpenServer с модулями: \n
 PHP 7.4
 PostgreSQL 12.2
 Apache 2.4
